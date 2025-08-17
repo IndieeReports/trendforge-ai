@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#2563eb"   # TrendForge blue
+backgroundColor="#0b0f14"
+secondaryBackgroundColor="#1e293b"
+textColor="#ffffff"
+font="sans serif"
