@@ -1,6 +1,6 @@
 streamlit
 pillow
-pandas
 reportlab
-openai
 requests
+python-dotenv
+openai
